@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">汽车之家</string>
+
+    <string name="find_car">打印</string>
+    <string-array name="car_types">
+        <item>热门车</item>
+        <item>豪华车</item>
+        <item>越野车</item>
+        <item>商务车</item>
+        <item>推荐车</item>
+        <item>二手车</item>
+    </string-array>
+
+
+
+    <string name="action_settings">Settings</string>
+</resources>
